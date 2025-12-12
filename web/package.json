@@ -14,7 +14,7 @@
     "@uiw/codemirror-theme-material": "^4.23.8",
     "@uiw/react-codemirror": "^4.23.8",
     "@web3-onboard/coinbase": "^2.2.5",
-    "@web3-onboard/core": "^2.20.5",
+    "@web3-onboard/core": "^2.24.1",
     "@web3-onboard/frontier": "^2.0.4",
     "@web3-onboard/gnosis": "^2.1.10",
     "@web3-onboard/infinity-wallet": "^2.0.4",
